@@ -213,10 +213,10 @@
     },
     Salvaging: {
       name: "Salvaging",
-      formula: "(None)",
-      train: 0,
+      formula: "(C+F)/2",
+      train: 2,
       spec: 0,
-      status: "N/A",
+      status: "Untrained",
     },
     Shield: {
       name: "Shield",
