@@ -87,7 +87,7 @@
     },
     Armor: {
       name: "Armor",
-      formula: "(S + 15)/2",
+      formula: "(S+15)/2",
       train: 4,
       spec: 2,
       status: "Untrained",
