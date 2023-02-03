@@ -38,7 +38,7 @@
     },
     Deception: {
       name: "Deception",
-      formula: "(C+W)/3",
+      formula: "(C+W)/4",
       train: 2,
       spec: 2,
       status: "Unusable",
