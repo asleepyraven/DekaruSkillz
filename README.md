@@ -6,4 +6,4 @@ Plan your ideal template. All information can be stored in a URL, so you can boo
 
 ## Try it out
 
-[http://tkissing.github.io/AsheronsSkillz/](http://tkissing.github.io/AsheronsSkillz/)
+[http://asleepyraven.github.io/DekaruSkillz/](http://asleepyraven.github.io/DekaruSkillz/)
