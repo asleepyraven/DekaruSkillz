@@ -24,7 +24,7 @@
     },
     Assess: {
       name: "Assess",
-      formula: "(F+Self)/2",
+      formula: "(F+W)/2",
       train: 4,
       spec: 2,
       status: "Unusable",
@@ -38,7 +38,7 @@
     },
     Deception: {
       name: "Deception",
-      formula: "(C+Self)/3",
+      formula: "(C+W)/3",
       train: 2,
       spec: 2,
       status: "Unusable",
@@ -94,7 +94,7 @@
     },
     Appraisal: {
       name: "Appraisal",
-      formula: "(F + S)/2",
+      formula: "(F+W)/2",
       train: 4,
       spec: 2,
       status: "Unusable",
@@ -115,7 +115,7 @@
     },
     Sword: {
       name: "Sword",
-      formula: "(Str+C)/3",
+      formula: "(S+C)/3",
       train: 6,
       spec: 6,
       status: "Untrained",
@@ -129,7 +129,7 @@
     },
     Leadership: {
       name: "Leadership",
-      formula: "(S/4)",
+      formula: "W/4",
       train: 4,
       spec: 2,
       status: "Untrained",
