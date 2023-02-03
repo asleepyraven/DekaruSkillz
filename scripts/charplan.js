@@ -150,7 +150,7 @@
     },
     Loyalty: {
       name: "Loyalty",
-      formula: "(None)",
+      formula: "W/4",
       train: 0,
       spec: 2,
       status: "N/A",
