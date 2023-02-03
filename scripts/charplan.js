@@ -129,7 +129,7 @@
     },
     Leadership: {
       name: "Leadership",
-      formula: "(None)",
+      formula: "(S/4)",
       train: 4,
       spec: 2,
       status: "Untrained",
