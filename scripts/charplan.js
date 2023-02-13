@@ -244,10 +244,10 @@
         c = i;
       });
 
-      return 56 + c;
+      return 54 + c;
     },
     levelFor: function (c) {
-      var cc = c > 56 ? c - 56 : c;
+      var cc = c > 54 ? c - 54 : c;
       return credits[cc] || 275;
     },
   };
