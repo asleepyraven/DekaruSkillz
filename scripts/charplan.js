@@ -43,13 +43,6 @@
       spec: 2,
       status: "Unusable",
     },
-    "Dual Wield": {
-      name: "Dual Wield",
-      formula: "(C+C)/3",
-      train: 2,
-      spec: 2,
-      status: "Unusable",
-    },
     Dagger: {
       name: "Dagger",
       formula: "(C+Q)/3",
