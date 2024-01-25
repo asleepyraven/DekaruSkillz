@@ -18,9 +18,9 @@
     "Arcane Lore": {
       name: "Arcane Lore",
       formula: "F/3",
-      train: 4,
+      train: 0,
       spec: 2,
-      status: "N/A",
+      status: "Trained",
     },
     Assess: {
       name: "Assess",
