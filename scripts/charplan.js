@@ -20,7 +20,7 @@
       formula: "F/3",
       train: 4,
       spec: 2,
-      status: "Untrained",
+      status: "N/A",
     },
     Assess: {
       name: "Assess",
@@ -53,7 +53,7 @@
     Dagger: {
       name: "Dagger",
       formula: "(C+Q)/3",
-      train: 4,
+      train: 6,
       spec: 4,
       status: "Untrained",
     },
@@ -61,14 +61,14 @@
       name: "Spear and Staff",
       formula: "(C+Q)/3",
       train: 6,
-      spec: 6,
+      spec: 4,
       status: "Untrained",
     },
     "Axe and Mace": {
       name: "Axe and Mace",
       formula: "(S+C)/3",
       train: 6,
-      spec: 6,
+      spec: 4,
       status: "Untrained",
     },
     "Thrown Weapons": {
@@ -81,7 +81,7 @@
     "Unarmed Combat": {
       name: "Unarmed Combat",
       formula: "(F+C)/3",
-      train: 4,
+      train: 6,
       spec: 4,
       status: "Untrained",
     },
@@ -228,8 +228,8 @@
     "War Magic": {
       name: "War Magic",
       formula: "(F+W)/4",
-      train: 16,
-      spec: 12,
+      train: 12,
+      spec: 8,
       status: "Unusable",
     },
   };
